@@ -23,7 +23,7 @@ After ```vagrant up``` the cluster is ready to use. Mesos is configured to work 
 ### Clone the repository
 
 ```
-$> git clone https://github.com/mrico/vagrant-mesos-do
+$> git clone https://github.com/mrico/vagrant-mesos-do.git
 ```
 
 ### Set API Token
